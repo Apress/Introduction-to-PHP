@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*An Introduction to PHP*](https://www.link.springer.com/book/10.1007/979-8-8688-0176-1) by Mark Simon (Apress, 2024).
+This repository accompanies [*An Introduction to PHP*](https://link.springer.com/book/10.1007/979-8-8688-0177-8) by Mark Simon (Apress, 2024).
 
 [comment]: #cover
 ![Cover image](9798868801761.jpg)
