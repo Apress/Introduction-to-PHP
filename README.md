@@ -23,6 +23,18 @@ Here are two good free and open-source editors you might consider:
 
 	This is the open source of Microsoft’s Visual Studio Code (https://code.visualstudio.com/), without Microsoft’s specific telemetry and proprietary features.
 
+##	The Sample Web Site
+
+In the book we include a sample web site, which you develop into a PHP project. You can download the files for the sample site from:
+
+-	https://github.com/Apress/An-Introduction-to-PHP/blob/main/sample.zip
+
+After you’ve done everything in the book, there will be a lot of PHP code. If you want to see a completed version of the PHP code, you’ll find it in the following file:
+
+-	https://github.com/Apress/An-Introduction-to-PHP/blob/main/scripts.zip
+
+These files are the same as the files you see in the list above.
+
 ##	A Web Server
 
 If you’re using Macintosh or Windows, they don’t come with a suitable web server. You can down load one of the following:
@@ -44,12 +56,3 @@ In the book we work with a __Virtual Host__. This can be a little tricky to set 
 
 The application can also be used to make changes to the PHP setup and includes a tab to test snippets of PHP code.
 
-Download the files as a zip using the green button, or clone the repository to your machine using Git.
-
-## Releases
-
-Release v1.0 corresponds to the code in the published book, without corrections or updates.
-
-## Contributions
-
-See the file Contributing.md for more information on how you can contribute to this repository.
