@@ -37,7 +37,7 @@ These files are the same as the files you see in the list above.
 
 ##	A Web Server
 
-If you’re using Macintosh or Windows, they don’t come with a suitable web server. You can down load one of the following:
+If you’re using Macintosh or Windows, they don’t come with a suitable web server. You can download one of the following:
 
 -	XAMPP: www.apachefriends.org/download.html.
 
