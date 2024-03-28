@@ -17,7 +17,7 @@ Here are two good free and open-source editors you might consider:
 
 -	Pulsar: https://pulsar-edit.dev/
 
- This is the successor to the Atom Text Editor.
+	This is the successor to the Atom Text Editor.
 
 -	VSCodium: https://vscodium.com/
 
