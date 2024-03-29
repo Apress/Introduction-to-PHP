@@ -32,7 +32,7 @@ https://down-under.net/
 It looks like this:
 
 [comment]: #sample
-![Sample Image](sample.jpg)
+![Sample Image](sample.png)
 
 You can download the files for the sample site from:
 
