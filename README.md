@@ -25,7 +25,15 @@ Here are two good free and open-source editors you might consider:
 
 ##	The Sample Web Site
 
-In the book we include a sample web site, which you develop into a PHP project. You can download the files for the sample site from:
+In the book we include a sample web site, which you develop into a PHP project. The finished version can be viewed here:
+
+https://down-under.net/
+
+It looks like this:
+
+
+
+You can download the files for the sample site from:
 
 -	https://github.com/Apress/An-Introduction-to-PHP/blob/main/sample.zip
 
