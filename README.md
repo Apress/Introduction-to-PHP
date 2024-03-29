@@ -31,7 +31,8 @@ https://down-under.net/
 
 It looks like this:
 
-
+[comment]: #sample
+![Sample Image](sample.jpg)
 
 You can download the files for the sample site from:
 
