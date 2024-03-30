@@ -7,8 +7,6 @@ This repository accompanies [*An Introduction to PHP*](https://link.springer.com
 
 To work through the book, you’ll want a working coding and testing environment. The instructions can be found in Chapter 1 of the book. Here, we’ll link to the software you might like to use.
 
-##  Sample Files
-
 ##  A Coding Editor
 
 There are many good coding editors available, some of which are open-source, some of which are proprietary, and some of which you might pay for.
