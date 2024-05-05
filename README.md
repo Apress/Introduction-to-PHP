@@ -38,7 +38,7 @@ You can download the files for the sample site from:
 
 After you’ve done everything in the book, there will be a lot of PHP code. If you want to see a completed version of the PHP code, you’ll find it in the following file:
 
--	https://github.com/Apress/An-Introduction-to-PHP/blob/main/scripts.zip
+-	https://github.com/Apress/An-Introduction-to-PHP/blob/main/completed.zip
 
 These files are the same as the files you see in the list above.
 
